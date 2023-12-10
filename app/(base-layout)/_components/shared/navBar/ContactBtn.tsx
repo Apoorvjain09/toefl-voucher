@@ -15,7 +15,7 @@ const ContactBtn = () => {
         "space-x-4 md:block md:w-auto flex items-center justify-between"
       )}
     >
-      <Link href={"/"} target="_blank">
+      <Link href={"https://wa.me/+917011460487?text=Hi,%20I%20am%20looking%20for%20TOEFL%20test%20voucher."} target="_blank">
         <Button
           size="lg"
           variant="contact"
